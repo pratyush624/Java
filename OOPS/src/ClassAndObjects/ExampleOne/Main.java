@@ -11,6 +11,7 @@ public class Main {
         car1.model = "Camry";
         car1.year = 2022;
 
+        // Assign values to the attributes
         car2.brand = "Honda";
         car2.model = "Civic";
         car2.year = 2021;
